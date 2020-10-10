@@ -1,4 +1,4 @@
-# Nox - [Download](http://betterdiscord.net/ghdl/?url=https://raw.githubusercontent.com/rauenzi/Nox/master/release/Nox.theme.css)
+# Nox - [Download](http://betterdiscord.net/ghdl/?url=https://github.com/KoalaBeans/Nox/releases/download/1.0.0/Nox.theme.css)
 
 A beautiful dark material theme for Discord. This is the rebrand and continuation of Beard's Material Design Theme which has been discontinued.
 
