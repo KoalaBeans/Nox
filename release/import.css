@@ -3016,6 +3016,9 @@ body .animator-US5i9g .action-1lSjCi.join-33Tr-7:active .actionButton-2PeQbJ {
 .art-347BZj {
   filter: grayscale(100%) brightness(90%); }
 
+.theme-dark .footer-2gL1pp {
+  background: var(--nox-level2); }
+
 /*deprecated*/
 .form-deprecated .control-group input,
 .form-deprecated .control-group textarea,
